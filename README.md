@@ -138,11 +138,11 @@ python3 bot.py
 
 
 ## **Thanks to** 
- - <b>Thanks To [Zishan Khan](https://t.me/SAKSHI_UPDATES) To Modify And Add Amazing Feature In The Repo
+ - <b>Thanks To [ALEXA UPDATE💝](https://t.me/SAKSHI_UPDATES) To Modify And Add Amazing Feature In The Repo
  - Thanks To [biisal](https://github.com/biisal/biisal-filter-bot) For Base Repo
- - Thanks To [Ꭺɴᴏɴʏᴍᴏᴜꜱ](https://t.me/ll_Crazy_munda_ll) To refresh Future Code and Update premium future</b>
- - Thanks To [Zoro](https://t.me/ll_Crazy_munda_ll) Your ideas have been a huge help in improving this project. Thanks for your valuable input!
- - Thanks To [ɪᴛ'ꜱ ʟᴜғғʏ](https://t.me/ll_Alexa_ll) For fixing key errors and making the bot better. Your help has been truly appreciated!
+ - Thanks To [Ꭺlexa🦋](https://t.me/ll_Crazy_munda_ll) To refresh Future Code and Update premium future</b>
+ - Thanks To [𝐀ɴᴏɴʏᴍᴏᴜs🙈](https://t.me/SUNSHINEME) Your ideas have been a huge help in improving this project. Thanks for your valuable input!
+ - Thanks To [OWNER☠️](https://t.me/ll_Alexa_ll) For fixing key errors and making the bot better. Your help has been truly appreciated!
  - Thanks To All Everyone In This Journey
  <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
