@@ -134,7 +134,7 @@ python3 bot.py
 </p>
 </details>
 
-<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+<img src="https://envs.sh/_1C.jpg"/>
 
 
 ## **Thanks to** 
