@@ -134,7 +134,7 @@ python3 bot.py
 </p>
 </details>
 
-<img src="https://ibb.co/Rp8PHdN"/>
+<img src="https://ibb.co/dkgxM3D"/>
 
 
 ## **Thanks to** 
